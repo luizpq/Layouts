@@ -21,7 +21,21 @@
   }
 
   .thumbnail-row {
+    position: relative;
     margin-bottom: 12px;
+  }
+
+  .video-time {
+    position: absolute;
+    background-color: black;
+    color: white;
+    padding: 3px 3px;
+    right: 10px;
+    bottom: 10px;
+    font-weight: 500;
+    border-radius: 2px;
+    font-size: 14px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
   }
 
   .video-author,

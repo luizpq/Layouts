@@ -1,9 +1,11 @@
 body {
+    background-color: rgb(247, 247, 247);
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    padding-top: 80px;
-    padding-left: 80px;
+    padding-top: 90px;
+    padding-left: 96px;
+    padding-right: 24px;
 }
 
 p {
